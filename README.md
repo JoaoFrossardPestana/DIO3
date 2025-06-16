@@ -9,6 +9,7 @@ As perguntas de negócio são:
 2. Qual o faturamento total com vendas de planos anuais separado por autorenovação ( os que tem autorenovação e os que não tem auto renovação)?
 3. Qual é o total de vendas de asssinaturas anuais do IA play?
 4. Qual é o total de vendas de asssinaturas do Minecraft Season Pass?
+
 O dashboard é dirigido ao diretor de vendas da XBOX Felipe Aguiar.
 
 
